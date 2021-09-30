@@ -28,7 +28,7 @@ Die Aufgaben können aber auch ohne die Installation von Software auf einem Rech
 Um in Repl eine Übungsaufgabe zu bearbeiten, erstellt man ein neues Repl für die Programmiersprache C++, kopiert dann den Quellcode der Aufgabe in den Code-Editor und
 löst dann die Programmieraufgabe. 
 
-Achtung: Bitte importieren Sie in Repl nicht dieses Github-Verzeichnis! Dieses Github-Verzeichnis beinhaltet die Aufgabenbeschreiobungen in einem Format namens Markdown.
+Achtung: Bitte importieren Sie in Repl nicht dieses Github-Verzeichnis! Dieses Github-Verzeichnis beinhaltet die Aufgabenbeschreibungen in einem Format namens Markdown.
 Diese Dateien können aber nicht direkt zur Programmierung benutzt werden.
 
 ## Lizenz
