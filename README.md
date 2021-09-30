@@ -17,6 +17,9 @@ eigenen Rechner herunterladen. Auf der Kommandozeile wird dazu der folgende Befe
 ```console
 git clone https://github.com/LosWochos76/GrundlagenDerProgrammierungInC
 ```
+
+Für die Bearbeitung der Aufgaben ist es nicht notwendig, dieses Repository zu clonen o.ä. Die Aufgaben sind auch ohne Github-Account frei zugänglich.
+
 ## Bearbeitung der Aufgaben
 
 Für die Bearbeitung der Aufgaben kann man (muss aber nicht) eine lokale Entwicklungsumgebung installieren.
