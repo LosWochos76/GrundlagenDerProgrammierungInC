@@ -19,14 +19,17 @@ git clone https://github.com/LosWochos76/GrundlagenDerProgrammierungInC
 ```
 ## Bearbeitung der Aufgaben
 
-Für die Bearbeitung der Aufgaben kann (muss aber nicht) eine lokale Entwicklungsumgebung installiert werden.
+Für die Bearbeitung der Aufgaben kann man (muss aber nicht) eine lokale Entwicklungsumgebung installieren.
 Unter Windows bietet sich dafür z.B. das [Visual Studio Community](https://visualstudio.microsoft.com/de/vs/community/) an.
-Unter OS X bietet sich [XCODE](https://apps.apple.com/de/app/xcode/id497799835?mt=12) an.
+Unter OS X sollte man [XCODE](https://apps.apple.com/de/app/xcode/id497799835?mt=12) nutzen.
 
-Die Aufgaben können auch ohne die Installation von Software auf einem Rechner bearbeitet werden.
-Es existieren eine ganze Reihe von web-basierten Entwicklungsumgebungen, in denen man Programmieren kann.
-Ein Beispiel ist [Repl.it](https://repl.it/). Der Dienst ist kostenlos und man kann dort für jede Aufgabe einen
-sog. repl erstellen, den Quellcode übersetzen und ausführen.
+Die Aufgaben können aber auch ohne die Installation von Software auf einem Rechner bearbeitet werden. Es existieren eine ganze Reihe von web-basierten Entwicklungsumgebungen, in denen man Programmieren kann. Ein Beispiel ist [Repl.it](https://repl.it/). Der Dienst ist kostenlos, man muss aber einen Account dort anlegen.
+
+Um in Repl eine Übungsaufgabe zu bearbeiten, erstellt man ein neues Repl für die Programmiersprache C++, kopiert dann den Quellcode der Aufgabe in den Code-Editor und
+löst dann die Programmieraufgabe. 
+
+Achtung: Bitte importieren Sie in Repl nicht dieses Github-Verzeichnis! Dieses Github-Verzeichnis beinhaltet die Aufgabenbeschreiobungen in einem Format namens Markdown.
+Diese Dateien können aber nicht direkt zur Programmierung benutzt werden.
 
 ## Lizenz
 Die Aufgaben und der zugehörige Quellcode stehen unter der [GNU GENERAL PUBLIC LICENSE](LICENSE).
